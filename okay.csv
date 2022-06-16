@@ -1,0 +1,11 @@
+ID,NAME,LENGTH (minutes),GENRE,RATING (IMDb),RATORS,SERIES OR MOVIE,SEASON,EPISODE,TITLE
+1,Peaky Blinders,57,Action,4.4,492000,Series,1,1,Episode 1
+2,How I Met your Mother,22,Comedy,5.5,19000,Series,9,24,Last Forever
+3,Lord of the Rings,178,Fantasy,8.8,1800000,Movie,,,       
+4,Everything Everywhere All at Once,140,Sci-fi,4.15,104000,Movie,,,   
+5,Barbie and the Diamond Castle,79,Children,6.3,3100,Movie,,,   
+6,Game of Thrones,59,Action,4.1,244000,Series,8,6,The Iron Throne
+7,Game of Thrones,60,Action,9.9,205000,Series,6,9,Battle of Bastards
+8,The Walking Dead,43,Thriller,8.2,12000,Series,3,16,Welcome to the Tombs
+9,Harry Potter and the Prisoner of Azkaban,161,Fantasy,7.9,617000,Movie,,,   
+10,Avatar,162,Fantasy,7.8,1200000,Movie,,,   
